@@ -4,9 +4,9 @@ App used as an alternative for searching  and viewing Github repos profiles and 
 
 ## Using the app:
 ### 1. clone repository
-In the project directory, you can run:
 
-### 2. run `npm start`
+
+### 2. In the project directory run: `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
